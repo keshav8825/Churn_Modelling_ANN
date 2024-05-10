@@ -1,0 +1,2 @@
+Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company. Predicting churn is essential for businesses to identify at-risk customers and take proactive measures to retain them.
+In this project, we use an Artificial Neural Network (ANN) to analyze historical customer data and predict the likelihood of churn for each customer. The ANN model is trained on a dataset containing various features such as customer demographics, account information, and transaction history.
